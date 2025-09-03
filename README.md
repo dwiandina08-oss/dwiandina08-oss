@@ -21,7 +21,7 @@
 - 😄 **Pronouns**: She/Her
 - ⚡ **Fakta Unik**: Saya pernah menganimasikan siklus jalan dari panik ke tenang untuk karakter Ahmad dan suka minum jus jambu merah untuk kulit bercahaya! 🍹
 
-## 🎨 Animasi Keren
+## 🎨 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="300" alt="Animation GIF">
 </div>
